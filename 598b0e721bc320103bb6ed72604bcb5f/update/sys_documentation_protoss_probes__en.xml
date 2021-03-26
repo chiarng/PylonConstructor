@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Protoss Probes" language="en" table="protoss_probes">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Protoss Probes</label>
+            <language>en</language>
+            <name>protoss_probes</name>
+            <plural>Protoss Probes</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>chiarng.lin@snc</sys_created_by>
+            <sys_created_on>2021-03-26 05:45:32</sys_created_on>
+            <sys_id>915c4ab21bc320103bb6ed72604bcb53</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Protoss Probes</sys_name>
+            <sys_package display_value="Pylon Constructor" source="598b0e721bc320103bb6ed72604bcb5f">598b0e721bc320103bb6ed72604bcb5f</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Pylon Constructor">598b0e721bc320103bb6ed72604bcb5f</sys_scope>
+            <sys_update_name>sys_documentation_protoss_probes__en</sys_update_name>
+            <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+            <sys_updated_on>2021-03-26 05:45:32</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

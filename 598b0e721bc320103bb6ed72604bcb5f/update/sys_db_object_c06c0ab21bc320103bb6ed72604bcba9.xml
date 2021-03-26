@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="INSERT_OR_UPDATE">
+        <access>public</access>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>true</create_access_controls>
+        <delete_access>false</delete_access>
+        <extension_model/>
+        <is_extendable>false</is_extendable>
+        <label>Protoss Pylons</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>protoss_pylons</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class/>
+        <sys_class_code/>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_class_path/>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-03-26 05:45:49</sys_created_on>
+        <sys_id>c06c0ab21bc320103bb6ed72604bcba9</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>protoss_pylons</sys_name>
+        <sys_package display_value="Pylon Constructor" source="598b0e721bc320103bb6ed72604bcb5f">598b0e721bc320103bb6ed72604bcb5f</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Pylon Constructor">598b0e721bc320103bb6ed72604bcb5f</sys_scope>
+        <sys_update_name>sys_db_object_c06c0ab21bc320103bb6ed72604bcba9</sys_update_name>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-03-26 05:45:49</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role display_value="protoss_pylons_user" name="protoss_pylons_user">996c8ab21bc320103bb6ed72604bcb5f</user_role>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_claim action="INSERT_OR_UPDATE">
+        <claim_owner_scope display_value="Pylon Constructor">598b0e721bc320103bb6ed72604bcb5f</claim_owner_scope>
+        <claim_timestamp>1786d1356650000001</claim_timestamp>
+        <metadata_update_name>sys_db_object_c06c0ab21bc320103bb6ed72604bcba9</metadata_update_name>
+        <previous_claim_app_version>1.0.0</previous_claim_app_version>
+        <previous_claim_name>Pylon Constructor</previous_claim_name>
+        <previous_claim_scope>598b0e721bc320103bb6ed72604bcb5f</previous_claim_scope>
+        <sys_created_by>chiarng.lin@snc</sys_created_by>
+        <sys_created_on>2021-03-26 05:48:07</sys_created_on>
+        <sys_id>3aec82f21bc320103bb6ed72604bcb0e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>chiarng.lin@snc</sys_updated_by>
+        <sys_updated_on>2021-03-26 05:48:07</sys_updated_on>
+    </sys_claim>
+</record_update>
